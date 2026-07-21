@@ -1,24 +1,33 @@
-## Hi there, I'm Yuting 👋
+## Hi, I'm Ting 👋
 
-- 🔭 I'm currently working on exciting software projects
-- 🌱 I'm currently learning cloud architecture and distributed systems
-- 👯 I'm looking to collaborate on open-source projects
-- 💬 Ask me about software development, web technologies, and problem solving
-- 📫 How to reach me: through GitHub
-- ⚡ Fun fact: I enjoy exploring new technologies and turning ideas into reality
+**Software Engineer / System Architect** based in Hong Kong.
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🔭 Current Focus
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- Running a Proxmox VE homelab with multi-VLAN networking (OPNsense) and Docker-based self-hosted services
+- Researching AI / LLM / agents — experimenting with locally deployed LLMs and agent-managed infrastructure
+- Building internal tools and automating everything along the way
+
+### 🛠️ Tech Stack
+
+**Languages:** Go · Python · TypeScript · Rust · C++ · Java
+
+**Infrastructure:** Linux · Docker · Proxmox VE · OPNsense · Nginx · Caddy · AWS · Cloudflare
+
+**Backend:** NestJS · Axum · Fastify
+
+**Frontend:** React · Svelte · Vue · Next.js · TanStack · Tailwind CSS
+
+**AI / Agents:** Ollama · llama.cpp · vLLM · Hermes Agent · OpenCode · Claude Code
+
+**Editors:** VS Code · JetBrains
+
+### 📫 Reach Me
+
+- 🌐 [yutinglia.com](https://yutinglia.com)
+- 📧 yutinglia@gmail.com
 
 ---
 
