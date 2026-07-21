@@ -1,14 +1,14 @@
 ## Hi, I'm Ting 👋
 
-**Software Engineer / System Architect** based in Hong Kong.
+**Software Engineer / System Architect** in Hong Kong.
 
 ---
 
 ### 🔭 Current Focus
 
 - Running a Proxmox VE homelab with multi-VLAN networking (OPNsense) and Docker-based self-hosted services
-- Researching AI / LLM / agents — experimenting with locally deployed LLMs and agent-managed infrastructure
-- Building internal tools and automating everything along the way
+- Researching AI / LLM / agents, experimenting with locally deployed LLMs and agent-managed infrastructure
+- Building internal tools and automating everything
 
 ### 🛠️ Tech Stack
 
