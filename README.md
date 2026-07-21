@@ -45,12 +45,3 @@
 - 🌐 [yutinglia.com](https://yutinglia.com)
 - 📧 yutinglia@gmail.com
 
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=yutinglia&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=yutinglia&layout=compact&hide_border=true)
-
-![Streak Stats](https://streak-stats.demolab.com?user=yutinglia&hide_border=true)
