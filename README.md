@@ -60,5 +60,5 @@
 
 ### 📫 Reach Me
 
-- 🌐 [yutinglia.com](https://yutinglia.com)
-- 📧 yutinglia@gmail.com
+[![Website](https://img.shields.io/badge/Website-www.yutinglia.com-1F88D0?style=flat&logo=googlechrome&logoColor=white)](https://www.yutinglia.com)
+[![Email](https://img.shields.io/badge/Email-yutinglia@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yutinglia@gmail.com)
