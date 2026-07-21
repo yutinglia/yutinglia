@@ -18,7 +18,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cpp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 **Infrastructure**
@@ -31,7 +31,7 @@
 ![Networking](https://img.shields.io/badge/Networking-0072C6?style=flat&logo=cisco&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Caddy](https://img.shields.io/badge/Caddy-1F88D0?style=flat&logo=caddy&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
 **Backend**
