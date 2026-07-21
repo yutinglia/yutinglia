@@ -37,7 +37,7 @@
 **Backend**
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Axum](https://img.shields.io/badge/Axum-CE422B?style=flat&logo=axum&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-CE422B?style=flat&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
 
 **Frontend**
@@ -63,7 +63,7 @@
 
 **Editors**
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=vscode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=vscodium&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat&logo=jetbrains&logoColor=white)
 
 **Practice**
