@@ -53,12 +53,12 @@
 
 **AI / Agents**
 
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
-![llama.cpp](https://img.shields.io/badge/llama.cpp-000000?style=flat&logo=llama&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-000000?style=flat&logo=vllm&logoColor=white)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-000000?style=flat&logo=openclaw&logoColor=white)
-![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-000000?style=flat&logo=hermes&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat&logo=opencode&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=flat&logo=ollama&logoColor=black)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-4A90D9?style=flat&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-76B900?style=flat&logo=vllm&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-2D3436?style=flat&logoColor=white)
+![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-6C5CE7?style=flat&logo=hermes&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-00D4AA?style=flat&logo=opencode&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 
 **Editors**
