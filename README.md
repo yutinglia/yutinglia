@@ -12,17 +12,33 @@
 
 ### 🛠️ Tech Stack
 
-**Languages:** Go · Python · TypeScript · Rust · C++ · Java
+**Languages**
 
-**Infrastructure:** Linux · Docker · Proxmox VE · OPNsense · Nginx · Caddy · AWS · Cloudflare
+![Languages](https://skillicons.dev/icons?i=go,py,ts,rust,cpp,java&perline=6)
 
-**Backend:** NestJS · Axum · Fastify
+**Infrastructure**
 
-**Frontend:** React · Svelte · Vue · Next.js · TanStack · Tailwind CSS
+![Infrastructure](https://skillicons.dev/icons?i=linux,docker,aws,cloudflare,nginx,grafana&perline=6)
 
-**AI / Agents:** Ollama · llama.cpp · vLLM · Hermes Agent · OpenCode · Claude Code
+**Backend & Frontend**
 
-**Editors:** VS Code · JetBrains
+![Backend & Frontend](https://skillicons.dev/icons?i=nestjs,nextjs,react,svelte,vue,tailwind&perline=6)
+
+**Tools & Editors**
+
+![Tools & Editors](https://skillicons.dev/icons?i=git,github,vscode,idea,githubactions,bash&perline=6)
+
+<details>
+<summary>Full stack details</summary>
+
+- **Languages:** Go · Python · TypeScript · Rust · C++ · Java
+- **Infrastructure:** Linux · Docker · Proxmox VE · OPNsense · Nginx · Caddy · AWS · Cloudflare
+- **Backend:** NestJS · Axum · Fastify
+- **Frontend:** React · Svelte · Vue · Next.js · TanStack · Tailwind CSS
+- **AI / Agents:** Ollama · llama.cpp · vLLM · Hermes Agent · OpenCode · Claude Code
+- **Editors:** VS Code · JetBrains
+
+</details>
 
 ### 📫 Reach Me
 
@@ -33,6 +49,8 @@
 
 ### 📊 GitHub Stats
 
-![Yuting's GitHub stats](https://github-readme-stats.vercel.app/api?username=yutinglia&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=yutinglia&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yutinglia&layout=compact&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=yutinglia&layout=compact&hide_border=true)
+
+![Streak Stats](https://streak-stats.demolab.com?user=yutinglia&hide_border=true)
