@@ -1,4 +1,4 @@
-## Hi, I'm Ting 👋
+## Hi, I'm Ting  =⩌⩊⩌=
 
 **Software Engineer / System Architect** in Hong Kong.
 
